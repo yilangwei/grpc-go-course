@@ -1,1 +1,1 @@
-module 
+module github.com/yilangwei/grpc-go-course
